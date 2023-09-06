@@ -86,7 +86,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
-                <mainClass>bank.management.system</mainClass>
+                <mainClass>com.project.onlinequiz</mainClass>
             </configuration>
         </plugin>
         <plugin>
